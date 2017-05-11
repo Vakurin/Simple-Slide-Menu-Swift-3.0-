@@ -12,7 +12,7 @@ class MenuViewController: UIViewController, UITableViewDelegate, UITableViewData
 
     @IBOutlet weak var menuTableView: UITableView!
     
-    let titles = ["one", "two", "three"]
+    let titles = ["first", "second", "three"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
